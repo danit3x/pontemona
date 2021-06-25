@@ -1,0 +1,53 @@
+[
+    {
+        "id" : 71,
+        "art" : "img/productos/accesorios/collares/collar.jpg",
+        "nombre" : "collares",
+        "precio" : "$2"
+
+    },
+    {
+        "id" : 72,
+        "art" : "img/productos/accesorios/collares/collar2.jpg",
+        "nombre" : "collares",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 73,
+        "art" : "img/productos/accesorios/collares/collar3.jpg",
+        "nombre" : "collares",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 74,
+        "art" : "img/productos/accesorios/collares/collar4.jpg",
+        "nombre" : "collares",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 75,
+        "art" : "img/productos/accesorios/collares/collar5.jpg",
+        "nombre" : "collares",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 76,
+        "art" : "img/productos/accesorios/collares/collar6.jpg",
+        "nombre" : "collares",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 77,
+        "art" : "img/productos/accesorios/collares/collar7.jpg",
+        "nombre" : "collares",
+        "precio" : "$"
+
+    }
+
+
+]

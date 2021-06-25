@@ -1,0 +1,45 @@
+[
+    {
+        "id" : 60,
+        "art" : "img/productos/accesorios/aros/aro.jpg",
+        "nombre" : "aro",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 61,
+        "art" : "img/productos/accesorios/aros/aro2.jpg",
+        "nombre" : "aro",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 63,
+        "art" : "img/productos/accesorios/aros/aro4.jpg",
+        "nombre" : "aro",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 64,
+        "art" : "img/productos/accesorios/aros/aro5.jpg",
+        "nombre" : "aro",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 66,
+        "art" : "img/productos/accesorios/aros/aro1.jpg",
+        "nombre" : "aro",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 67,
+        "art" : "img/productos/accesorios/aros/aro7.jpg",
+        "nombre" : "aro",
+        "precio" : "$"
+
+    }
+
+]

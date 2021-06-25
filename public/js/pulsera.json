@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "art" : "img/productos/accesorios/pulseras/img1.jpg",
+        "nombre" : "Pulsera con anillos y bolitas",
+        "precio" : "$260"
+
+    },
+    {
+        "id" : 2,
+        "art" : "img/productos/accesorios/pulseras/img2.jpg",
+        "nombre" : "Pulsera Fátima",
+        "precio" : "$240"
+
+    },
+    {
+        "id" : 3,
+        "art" : "img/productos/accesorios/pulseras/img3.jpg",
+        "nombre" : "Pulsera con dijes d Murano",
+        "precio" : "$310"
+
+    },
+    {
+        "id" : 4,
+        "art" : "img/productos/accesorios/pulseras/img4.jpg",
+        "nombre" : "Pulsera rolo",
+        "precio" : "$210"
+
+    },
+    {
+        "id" : 5,
+        "art" : "img/productos/accesorios/pulseras/img5.jpg",
+        "nombre" : "Pulsera rolo fina",
+        "precio" : "$200"
+
+    },
+    {
+        "id" : 6,
+        "art" : "img/productos/accesorios/pulseras/img6.jpg",
+        "nombre" : "Pulsera eslabón chato acero blanco",
+        "precio" : "$300"
+
+    },
+    {
+        "id" : 7,
+        "art" : "img/productos/accesorios/pulseras/pulsera.jpg",
+        "nombre" : "Pulsera",
+        "precio" : "$"
+
+    },{
+        "id" : 8,
+        "art" : "img/productos/accesorios/pulseras/pulsera1.jpg",
+        "nombre" : "Pulsera",
+        "precio" : "$"
+
+    },{
+        "id" : 9,
+        "art" : "img/productos/accesorios/pulseras/pulsera2.jpg",
+        "nombre" : "Pulsera",
+        "precio" : "$"
+
+    },{
+        "id" : 10,
+        "art" : "img/productos/accesorios/pulseras/pulsera3.jpg",
+        "nombre" : "Pulsera",
+        "precio" : "$"
+
+    },{
+        "id" : 11,
+        "art" : "img/productos/accesorios/pulseras/pulsera4.jpg",
+        "nombre" : "Pulsera",
+        "precio" : "$"
+
+    },{
+        "id" : 12,
+        "art" : "img/productos/accesorios/pulseras/pulsera5.jpg",
+        "nombre" : "Pulsera ",
+        "precio" : "$"
+
+    }
+
+
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "id" : 20,
+        "art" : "img/productos/accesorios/remera/rem.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 21,
+        "art" : "img/productos/accesorios/remera/rem1.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 22,
+        "art" : "img/productos/accesorios/remera/rem2.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 23,
+        "art" : "img/productos/accesorios/remera/rem3.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 24,
+        "art" : "img/productos/accesorios/remera/rem4.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 25,
+        "art" : "img/productos/accesorios/remera/rem5.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 26,
+        "art" : "img/productos/accesorios/remera/rem6.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 27,
+        "art" : "img/productos/accesorios/remera/rem7.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 28,
+        "art" : "img/productos/accesorios/remera/rem8.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 29,
+        "art" : "img/productos/accesorios/remera/rem9.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 30,
+        "art" : "img/productos/accesorios/remera/rem10.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 31,
+        "art" : "img/productos/accesorios/remera/rem11.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 32,
+        "art" : "img/productos/accesorios/remera/rem12.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 33,
+        "art" : "img/productos/accesorios/remera/rem13.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 34,
+        "art" : "img/productos/accesorios/remera/rem14.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 35,
+        "art" : "img/productos/accesorios/remera/rem15.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 36,
+        "art" : "img/productos/accesorios/remera/rem16.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 37,
+        "art" : "img/productos/accesorios/remera/rem17.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 38,
+        "art" : "img/productos/accesorios/remera/rem18.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 39,
+        "art" : "img/productos/accesorios/remera/rem19.jpg",
+        "nombre" : "Remera",
+        "precio" : "$"
+
+    }
+
+
+]

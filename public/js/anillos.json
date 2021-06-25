@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 40,
+        "art" : "img/productos/accesorios/anillos/anillo.jpg",
+        "nombre" : "anillo",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 41,
+        "art" : "img/productos/accesorios/anillos/anillos.jpg",
+        "nombre" : "anillo",
+        "precio" : "$"
+
+    },
+    {
+        "id" : 42,
+        "art" : "img/productos/accesorios/anillos/anillos1.jpg",
+        "nombre" : "anillo",
+        "precio" : "$"
+
+    }
+]
